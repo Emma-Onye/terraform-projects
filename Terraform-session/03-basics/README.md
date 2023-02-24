@@ -2,7 +2,7 @@
 
 ## Remote Backends
 
-Remote backends enable storage of TF state in a remote, location to enable secure collaboration.
+Remote backends enable storage of TF state in a remote location to enable secure collaboration.
 
 ### Terraform Cloud
 
@@ -28,7 +28,7 @@ Do you want to copy existing state to the new backend?
   Enter a value: yes 
 ```
 
-Now the S3 bucket and dynamoDB table are mam and are able to be used as the state backend!
+Now the S3 bucket and dynamoDB table are enabled and are able to be used as the state backend!
 
 ## Web-App
 
